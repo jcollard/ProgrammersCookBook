@@ -1,0 +1,22 @@
+{
+  "name": "programmers-cookbook",
+  "version": "1.0.0",
+  "description": "A site for looking up how to do basic programming tasks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcollard/ProgrammersCookBook.git"
+  },
+  "author": "Joseph Collard <josephmcollard@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcollard/ProgrammersCookBook/issues"
+  },
+  "homepage": "https://github.com/jcollard/ProgrammersCookBook#readme",
+  "dependencies": {
+    "@angular/cli": "^13.1.3"
+  }
+}
